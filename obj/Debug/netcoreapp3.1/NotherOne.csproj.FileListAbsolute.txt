@@ -1,0 +1,12 @@
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/bin/Debug/netcoreapp3.1/NotherOne.deps.json
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/bin/Debug/netcoreapp3.1/NotherOne.runtimeconfig.json
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/bin/Debug/netcoreapp3.1/NotherOne.runtimeconfig.dev.json
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/bin/Debug/netcoreapp3.1/NotherOne.dll
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/bin/Debug/netcoreapp3.1/NotherOne.pdb
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.csprojAssemblyReference.cache
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.AssemblyInfoInputs.cache
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.AssemblyInfo.cs
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.csproj.CoreCompileInputs.cache
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.dll
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.pdb
+/Users/wpeck/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/NotherOne/obj/Debug/netcoreapp3.1/NotherOne.genruntimeconfig.cache
